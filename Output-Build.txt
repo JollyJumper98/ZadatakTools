@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleApp2, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>ConsoleApp2 -> C:\Users\User\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
